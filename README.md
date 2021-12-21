@@ -3,3 +3,4 @@ CSharp related collections
 
 # Functionality
 - ConsoleCmdLineArgsEx
+- ProcessDotStartEx
